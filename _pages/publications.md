@@ -16,7 +16,7 @@ author_profile: true
 2020
 ---
 
-> C Louart, R Couillet, **"A Concentration of Measure and Random Matrix Approach to Large Dimensional Robust Statistics"**, submitted to The Annals of Applied Probability [[arXiv](https://arxiv.org/abs/2006.09728)] [[paper](https://github.com/cosmital/cosmital.github.io/blob/master/files/robust_journal.pdf)].
+> C Louart, R Couillet, **"A Concentration of Measure and Random Matrix Approach to Large Dimensional Robust Statistics"**, submitted to The Annals of Applied Probability [[arXiv](https://arxiv.org/abs/2006.09728)] [[paper](https://cosmital.github.io/files/robust_journal.pdf)].
 
 > MEA.Seddik, C.Louart, M.Tamaazousti, R.Couillet, **"Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures"**, *ICML'2020*. [[paper](https://melaseddik.github.io/files/rmt4gan.pdf)] [[arxiv](https://arxiv.org/abs/2001.08370)] [[slides](https://cosmital.github.io/files/rmt4gan.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/rmt4gan.txt)].
 
