@@ -2,7 +2,7 @@
 title: "GDR Toulouse"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/toulouse
 venue: "Institut de Mathématiques de Toulouse"
 date: 2020-10-23
 location: "Toulouse, France"
