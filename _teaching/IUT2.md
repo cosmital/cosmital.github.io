@@ -1,12 +1,20 @@
 ---
-title: "Undergraduate course"
+title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "IUT2 - L1 STID"
-date: 2019-10-01
-location: "Saint-martin d'Heres, France"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
+This is a description of a teaching experience. You can use markdown like any other post.
 
-Basic notions of Algebra
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
