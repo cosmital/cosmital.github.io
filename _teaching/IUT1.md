@@ -8,4 +8,4 @@ date: 2020-01-10
 location: "Grenoble, France"
 ---
 
-Basic notions of Algebra
+General mathematical notions
