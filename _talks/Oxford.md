@@ -1,9 +1,9 @@
 ---
 title: "Oxford Seminar"
 collection: talks
-type: "Conference proceedings talk"
+type: "Talk"
 permalink: /talks/Oxford
-venue: "Mathematical Institute"
+venue: "Oxford Mathematical Institute"
 date: 2020-02-18
 location: "Oxford, Great Britain"
 ---
