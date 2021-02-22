@@ -8,5 +8,4 @@ date: 2019-10-01
 location: "Grenoble, France"
 ---
 
-
 Basic notions of Algebra
