@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : 
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Cosme Louart"
 description              : &description "Phd Student in theoretical machine learning"
