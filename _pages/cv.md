@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please find my CV [here](http://cosmital.github.io/files/coverletter.pdf).
+#Please find my CV [here](http://cosmital.github.io/files/coverletter.pdf).
