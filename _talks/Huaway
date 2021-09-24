@@ -1,5 +1,5 @@
 ---
-title: "Hueaway Seminar"
+title: "Huaway Seminar"
 collection: talks
 type: "Talk"
 permalink: /talks/Huaway
@@ -8,5 +8,5 @@ date: 2021-05-04
 location: "Paris, France"
 ---
 
-The asymptotic performance of DNN's seen from the softmax layer: a random matrix and concentration-of-measure approach [slides]() 
+The asymptotic performance of DNN's seen from the softmax layer: a random matrix and concentration-of-measure approach [slides](https://cosmital.github.io/files/pres_huaway.pdf) 
 other guests: (Professor Leonid Pastur and Professor Zhou Fan)
