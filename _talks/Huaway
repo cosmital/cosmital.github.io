@@ -1,0 +1,12 @@
+---
+title: "Hueaway Seminar"
+collection: talks
+type: "Talk"
+permalink: /talks/Huaway
+venue: "2nd Mini-workshop RMT and machine learning"
+date: 2021-05-04
+location: "Paris, France"
+---
+
+The asymptotic performance of DNN's seen from the softmax layer: a random matrix and concentration-of-measure approach [slides]() 
+other guests: (Professor Leonid Pastur and Professor Zhou Fan)
