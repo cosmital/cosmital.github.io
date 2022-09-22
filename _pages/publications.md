@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-2021
----
-
 2022
 ---
 > C Louart, R Couillet, **"A Concentration of Measure and Random Matrix Approach to Large Dimensional Robust Statistics"**, accepted by The Annals of Applied Probability [[arXiv](https://arxiv.org/abs/2006.09728)] 
+
 2021
 ---
 > C.Louart, R.Couillet, **"Spectral properties of sample covariance matrices arising from random matrices with independent non identically distributed columns "**, *submitted to RMTA*. [[paper](https://arxiv.org/pdf/2109.02644.pdf)].
