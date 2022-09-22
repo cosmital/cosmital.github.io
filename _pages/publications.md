@@ -8,6 +8,11 @@ author_profile: true
 2021
 ---
 
+2022
+---
+> C Louart, R Couillet, **"A Concentration of Measure and Random Matrix Approach to Large Dimensional Robust Statistics"**, accepted by The Annals of Applied Probability [[arXiv](https://arxiv.org/abs/2006.09728)] 
+2021
+---
 > C.Louart, R.Couillet, **"Spectral properties of sample covariance matrices arising from random matrices with independent non identically distributed columns "**, *submitted to RMTA*. [[paper](https://arxiv.org/pdf/2109.02644.pdf)].
 
 > MEA.Seddik, C.Louart, R.Couillet, M.Tamaazousti, **"The Unexpected Deterministic and Universal Behavior of Large Softmax Classifiers"**, *AISTATS'2021*. [[paper](https://cosmital.github.io/files/rmt4softmax.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/softmax_2020.txt)][[github](https://github.com/cosmital/softmax_prediction/blob/master/Multiclass_prediction.ipynb)][[interactive julia code](https://mybinder.org/v2/gh/cosmital/softmax_prediction/2b245d4cf9d32499d6b0677e11153addde735041) (takes some minuts to charge)].
@@ -18,7 +23,7 @@ author_profile: true
 2020
 ---
 
-> C Louart, R Couillet, **"A Concentration of Measure and Random Matrix Approach to Large Dimensional Robust Statistics"**, submitted to The Annals of Applied Probability [[arXiv](https://arxiv.org/abs/2006.09728)] [[paper](https://cosmital.github.io/files/robust_journal.pdf)].
+<!-- > [[paper](https://cosmital.github.io/files/robust_journal.pdf)]. -->
 
 > MEA.Seddik, C.Louart, M.Tamaazousti, R.Couillet, **"Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures"**, *ICML'2020*. [[paper](https://melaseddik.github.io/files/rmt4gan.pdf)] [[arxiv](https://arxiv.org/abs/2001.08370)] [[slides](https://cosmital.github.io/files/rmt4gan.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/rmt4gan.txt)].
 
