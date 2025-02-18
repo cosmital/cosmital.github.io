@@ -7,22 +7,22 @@ author_profile: true
 
 2025
 ---
-> C Louart, **"Operation with concentration inequalities"**, Submitted to Annals of Applied Probability [[paper](https://arxiv.org/pdf/2402.08206)]
-> 
-> Z Wenrang, C Louart, **"Transformer-based modular modeling scheme for Digital Twin"**, Submitted to ICML2025 [[paper](https://cosmital.github.io/files/10561_Transformer_based_modula_2.pdf)]
+> C Louart, **"Operation with concentration inequalities"**, Submitted to Annals of Applied Probability [[paper](https://arxiv.org/pdf/2402.08206)].
+
+> Z Wenrang, C Louart, **"Transformer-based modular modeling scheme for Digital Twin"**, Submitted to ICML2025 [[paper](https://cosmital.github.io/files/10561_Transformer_based_modula_2.pdf)].
 
 2024
 ---
-> R Ilbert, M Tiomoko, C Louart, V Feofanov, T Palpanas, I Redko, **"Enhancing Multivariate Time Series Forecasting via Multi-Task Learning and Random Matrix Theory"**, NeurIPS Workshop on Time Series in the Age of Large Models [[paper](https://openreview.net/pdf?id=YaErRZ5SVG)]
+> R Ilbert, M Tiomoko, C Louart, V Feofanov, T Palpanas, I Redko, **"Enhancing Multivariate Time Series Forecasting via Multi-Task Learning and Random Matrix Theory"**, NeurIPS Workshop on Time Series in the Age of Large Models [[paper](https://openreview.net/pdf?id=YaErRZ5SVG)].
 
 2023
 ---
-> C Louart, **"Random matrix theory and concentration of the measure theory for the study of high dimension data processing."**, NeurIPS Workshop on Time Series in the Age of Large Models [[manuscript](https://theses.hal.science/tel-04116888/file/LOUART_2023_archivage.pdf)]
+> C Louart, **"Random matrix theory and concentration of the measure theory for the study of high dimension data processing."**, NeurIPS Workshop on Time Series in the Age of Large Models [[manuscript](https://theses.hal.science/tel-04116888/file/LOUART_2023_archivage.pdf)].
 
 
 2022
 ---
-> C Louart, R Couillet, **"A Concentration of Measure and Random Matrix Approach to Large Dimensional Robust Statistics"**, The Annals of Applied Probability [[paper](https://arxiv.org/abs/2006.09728)] 
+> C Louart, R Couillet, **"A Concentration of Measure and Random Matrix Approach to Large Dimensional Robust Statistics"**, The Annals of Applied Probability [[paper](https://arxiv.org/abs/2006.09728)].
 
 2021
 ---
