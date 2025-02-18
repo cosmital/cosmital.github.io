@@ -5,18 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
+2025
+---
+> C Louart, **"Operation with concentration inequalities"**, Submitted to Annals of Applied Probability [[paper](https://arxiv.org/pdf/2402.08206)]
+
+2024
+---
+> R Ilbert, M Tiomoko, C Louart, V Feofanov, T Palpanas, I Redko, **"Enhancing Multivariate Time Series Forecasting via Multi-Task Learning and Random Matrix Theory"**, NeurIPS Workshop on Time Series in the Age of Large Models [[paper](https://openreview.net/pdf?id=YaErRZ5SVG)]
+
+2023
+---
+> C Louart, **"Random matrix theory and concentration of the measure theory for the study of high dimension data processing."**, NeurIPS Workshop on Time Series in the Age of Large Models [[manuscript](https://theses.hal.science/tel-04116888/file/LOUART_2023_archivage.pdf)]
+
+
 2022
 ---
-> C Louart, R Couillet, **"A Concentration of Measure and Random Matrix Approach to Large Dimensional Robust Statistics"**, accepted by The Annals of Applied Probability [[arXiv](https://arxiv.org/abs/2006.09728)] 
+> C Louart, R Couillet, **"A Concentration of Measure and Random Matrix Approach to Large Dimensional Robust Statistics"**, The Annals of Applied Probability [[paper](https://arxiv.org/abs/2006.09728)] 
 
 2021
 ---
-> C.Louart, R.Couillet, **"Spectral properties of sample covariance matrices arising from random matrices with independent non identically distributed columns "**, *submitted to RMTA*. [[paper](https://arxiv.org/pdf/2109.02644.pdf)].
-
 > MEA.Seddik, C.Louart, R.Couillet, M.Tamaazousti, **"The Unexpected Deterministic and Universal Behavior of Large Softmax Classifiers"**, *AISTATS'2021*. [[paper](https://cosmital.github.io/files/rmt4softmax.pdf)] [[bibtex](https://melaseddik.github.io/files/bibtex/softmax_2020.txt)][[github](https://github.com/cosmital/softmax_prediction/blob/master/Multiclass_prediction.ipynb)][[interactive julia code](https://mybinder.org/v2/gh/cosmital/softmax_prediction/2b245d4cf9d32499d6b0677e11153addde735041) (takes some minuts to charge)].
 
-> C Louart, R. Couillet, **"Concentration of measure and generalized product of random vectors with an application to Hanson-Wright-like inequalities."**
- submitted to Electronic Journal of Probability [[arXiv](https://arxiv.org/abs/2102.08020)] [[paper](https://cosmital.github.io/files/hanson_wright.pdf)].
 
 2020
 ---
@@ -27,7 +36,7 @@ author_profile: true
 
 2019
 ---
-> C Louart, R Couillet, **"Concentration of Measure and Large Random Matrices with an application to Sample Covariance Matrices"**, arXiv preprint arXiv:1805.08295 (2019) [[arXiv](https://arxiv.org/abs/1805.08295)] [[paper](https://cosmital.github.io/files/covariance_retreci.pdf)].
+> C Louart, R Couillet, **"Concentration of Measure and Large Random Matrices with an application to Sample Covariance Matrices"**, arXiv preprint arXiv:1805.08295 (2019) [[paper](https://arxiv.org/abs/1805.08295)] [[paper](https://cosmital.github.io/files/covariance_retreci.pdf)].
 
 > M Tiomoko, C Louart, R Couillet, **"Large Dimensional Asymptotics of Multi-task Learning"**, IEEE International Conference on Acoustics, Speech and Signal Processings (ICASSP'19) [[paper](https://cosmital.github.io/files/MultitaskICASSP20.pdf)].
 
