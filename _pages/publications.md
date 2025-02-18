@@ -8,6 +8,7 @@ author_profile: true
 2025
 ---
 > C Louart, **"Operation with concentration inequalities"**, Submitted to Annals of Applied Probability [[paper](https://arxiv.org/pdf/2402.08206)]
+> Z Wenrang, C Louart, **"Transformer-based modular modeling scheme for Digital Twin"**, Submitted to ICML2025 [[paper](https://arxiv.org/pdf/2402.08206)]
 
 2024
 ---
