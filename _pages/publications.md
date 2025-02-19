@@ -17,7 +17,7 @@ author_profile: true
 
 2023
 ---
-> C Louart, **"Random matrix theory and concentration of the measure theory for the study of high dimension data processing."**, NeurIPS Workshop on Time Series in the Age of Large Models [[manuscript](https://theses.hal.science/tel-04116888/file/LOUART_2023_archivage.pdf)].
+> C Louart, **"Random matrix theory and concentration of the measure theory for the study of high dimension data processing."** [[thesis manuscript](https://theses.hal.science/tel-04116888/file/LOUART_2023_archivage.pdf)].
 
 
 2022
