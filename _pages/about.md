@@ -14,4 +14,4 @@ My main research work consists in employing <strong>Theory of Random Matrices</s
 
 A secondary topic concerns a projects I had to lead when I was data scientist at EDF Beijing. The goal is to model static physical system like chillers or heating networks with transformers. I recruited a PhD student, Wenrang Zhang, who has been working on the project since September 2023.
 
-I provide on this website my articles and some of the Python/Julia scripts to validate the theory with experimental results.
+I am looking for PhD students and Postdoc researchers to work on Random Matrices/Concentration of Measure issues. Please contact me if you are interested in these subjects AND had a serious look at these publications: [[operations and concentration](https://arxiv.org/pdf/2402.08206)] [[MP non iid - in preparation](https://cosmital.github.io/files/main_final12.pdf)]  [[Softmax](https://cosmital.github.io/files/rmt4softmax.pdf)]. I also published the following internship offer: [[Internship offer]((https://cosmital.github.io/files/intership_louart_empirical_risk(1).pdf))] for students with a strong background in maths and interested in Machine Learning applications.  
