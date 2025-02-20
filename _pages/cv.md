@@ -23,4 +23,5 @@ redirect_from:
 
 
 <h3>Full CV: </h3> 
-[[CV_louart](https://cosmital.github.io/files/1_CV_LOUART.pdf)] 
+
+[[cv_louart](https://cosmital.github.io/files/1_CV_LOUART.pdf)] 
