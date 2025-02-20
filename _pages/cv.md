@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [[pdf](https://cosmital.github.io/files/1_CV_LOUART.pdf)]"
+title: "CV "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,3 +22,4 @@ redirect_from:
 
 
 
+Full CV: [[CV_louart](https://cosmital.github.io/files/1_CV_LOUART.pdf)]
