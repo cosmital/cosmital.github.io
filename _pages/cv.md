@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [[pdf](https://cosmital.github.io/files/1_CV_LOUART.pdf)]"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,4 +21,4 @@ redirect_from:
 - **Bachelor 3, Master 1** - Fundamental mathematics, ENS de Paris Rue d’Ulm (“élève normalien”), France, 2013-2015.
 
 
-[[Full CV](https://cosmital.github.io/files/1_CV_LOUART.pdf)]
+
