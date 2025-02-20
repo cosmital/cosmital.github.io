@@ -14,7 +14,7 @@ redirect_from:
   
 <h2>Education</h2>
 
-- **PhD in Mathematics**, GIPSA-lab, CEA LIST, *Application of the theory of Random Matrices and of the Concentration of the Measure for the study of High Dimensional Data Processing*, under the supervision of Romain Couillet, 2018-2023 (Defense on Feb 28th).
+- **PhD in Mathematics**, GIPSA-lab, CEA LIST, *Application of the theory of Random Matrices and of the Concentration of the Measure for the study of High Dimensional Data Processing*, under the supervision of Romain Couillet, 2018-2023 (Defense on Feb 28th [[thesis manuscript](https://theses.hal.science/tel-04116888/file/LOUART_2023_archivage.pdf)]).
   
 - **Master 2 "MVA"** - Machine learning techniques for image processing and learning, ENS Cachan, France, 2015-2016.
 
