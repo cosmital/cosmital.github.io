@@ -19,3 +19,6 @@ redirect_from:
 - **Master 2 "MVA"** - Machine learning techniques for image processing and learning, ENS Cachan, France, 2015-2016.
 
 - **Bachelor 3, Master 1** - Fundamental mathematics, ENS de Paris Rue d’Ulm (“élève normalien”), France, 2013-2015.
+
+
+[[Full CV](https://cosmital.github.io/files/1_CV_LOUART.pdf)]
