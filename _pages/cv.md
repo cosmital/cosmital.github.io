@@ -7,12 +7,12 @@ redirect_from:
   - /resume
 ---
 
-## Positions
+<h2>Positions</h2> 
 
 - **Assistant Professor**, CUHK (Shenzhen), School of Data Science, Statistic department. Tenure-track. 2023-Today.
 - **Research engineer R&D**, EDF China, Energy solution team. Projects: District heating in Sanmenxia, Cooling station in Sanya, electric bus fleet in Shenzhen. Designing of Python pipelines for physical model calibration, neural network modelization, optimization of operational choices thanks to those fast models - exchange with the operational team from Beijing or on-site to answer the needs. 2021-2023.
   
-## Education
+<h2>Education</h2>
 
 - **PhD in Mathematics**, GIPSA-lab, CEA LIST, *Application of the theory of Random Matrices and of the Concentration of the Measure for the study of High Dimensional Data Processing*, under the supervision of Romain Couillet, 2018-2023 (Defense on Feb 28th).
   
