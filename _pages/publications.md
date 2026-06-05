@@ -10,7 +10,7 @@ author_profile: true
 
 > C. Louart, **"Resolvent convergence for sample covariance matrices with general covariance profiles and quadratic-form control"**, preprint [[paper](https://arxiv.org/abs/2109.02644)].
 
-> C. Louart, **"A Central Limit Theorem for Regularized M-Estimators"**, preprint [[paper](https://cosmital.github.io/files/CLT_M_estimators_louart.pdf)].
+> C. Louart, **"A Central Limit Theorem for Regularized M-Estimators"**, preprint [[paper](https://cuhko365-my.sharepoint.com/my?id=%2Fpersonal%2Fcosmelouart%5Fcuhk%5Fedu%5Fcn%2FDocuments%2FDocuments%2FCLT%5FM%5Festimators%5Flouart%2Epdf&parent=%2Fpersonal%2Fcosmelouart%5Fcuhk%5Fedu%5Fcn%2FDocuments%2FDocuments&ga=1)].
 
 > M. Tiomoko, H. Cherkaoui, M. E. A. Seddik, C. Louart, E. Schnoor, B. Kégl, **"High-Dimensional Analysis of Bootstrap Ensemble Classifiers"**, AISTATS 2026 [[paper](https://openreview.net/pdf?id=HRNBXXmTwh)].
 
