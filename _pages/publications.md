@@ -7,16 +7,16 @@ author_profile: true
 
 2026
 ---
->	**"High-Dimensional Analysis of Bootstrap Ensemble Classifiers"** Malik Tiomoko, Hamza Cherkaoui, Mohamed El Amine Seddik, Cosme Louart, Ekkehard Schnoor, Balázs Kégl AISTATS 2026 [[paper](https://openreview.net/pdf?id=HRNBXXmTwh)]
 
->	**"A Random Matrix Perspective of Echo State Networks: From Precise Bias-Variance Characterization to Optimal Regularization"** Y. Moahker, M. Tiomoko, C. Louart, Z. Liao ICASSP 2026 [[paper](https://arxiv.org/pdf/2509.22011)]
-
->	**"Characterization of Gaussian Universality Breakdown in High-Dimensional Empirical Risk Minimization"** C. Yaakoubi, C. Louart, M. Tiomoko, Z. Liao ICML 2026 [[paper](https://arxiv.org/abs/2604.03146)]
+>	C. Yaakoubi, C. Louart, M. Tiomoko, Z. Liao, **"Characterization of Gaussian Universality Breakdown in High-Dimensional Empirical Risk Minimization"** ICML 2026 [[paper](https://arxiv.org/abs/2604.03146)]
 
 > C Louart, **"Resolvent convergence for sample covariance matrices with general covariance profiles and quadratic-form control"**, preprint [[paper](https://arxiv.org/abs/2109.02644)].
 
 > C Louart, **"A Central Limit Theorem for Regularized M-Estimators"**, preprint [[paper](https://cosmital.github.io/files/CLT_M_estimators_louart.pdf)].
 
+>	Malik Tiomoko, Hamza Cherkaoui, Mohamed El Amine Seddik, Cosme Louart, Ekkehard Schnoor, Balázs Kégl, **"High-Dimensional Analysis of Bootstrap Ensemble Classifiers"** AISTATS 2026 [[paper](https://openreview.net/pdf?id=HRNBXXmTwh)]
+
+>	Y. Moahker, M. Tiomoko, C. Louart, Z. Liao, **"A Random Matrix Perspective of Echo State Networks: From Precise Bias-Variance Characterization to Optimal Regularization"** ICASSP 2026 [[paper](https://arxiv.org/pdf/2509.22011)]
 
 
 
