@@ -8,9 +8,13 @@ author_profile: true
 2026
 ---
 >	**"High-Dimensional Analysis of Bootstrap Ensemble Classifiers"** Malik Tiomoko, Hamza Cherkaoui, Mohamed El Amine Seddik, Cosme Louart, Ekkehard Schnoor, Balázs Kégl AISTATS 2026 [[paper](https://openreview.net/pdf?id=HRNBXXmTwh)]
+
 >	**"A Random Matrix Perspective of Echo State Networks: From Precise Bias-Variance Characterization to Optimal Regularization"** Y. Moahker, M. Tiomoko, C. Louart, Z. Liao ICASSP 2026 [[paper](https://arxiv.org/pdf/2509.22011)]
+
 >	**"Characterization of Gaussian Universality Breakdown in High-Dimensional Empirical Risk Minimization"** C. Yaakoubi, C. Louart, M. Tiomoko, Z. Liao ICML 2026 [[paper](https://arxiv.org/abs/2604.03146)]
+
 > C Louart, **"Resolvent convergence for sample covariance matrices with general covariance profiles and quadratic-form control"**, preprint [[paper](https://arxiv.org/abs/2109.02644)].
+
 > C Louart, **"A Central Limit Theorem for Regularized M-Estimators"**, preprint [[paper](https://cosmital.github.io/files/CLT_M_estimators_louart.pdf)].
 
 
@@ -19,6 +23,7 @@ author_profile: true
 2025
 ---
 > C Louart, **"Operation with concentration inequalities"**, Submitted [[paper](https://arxiv.org/pdf/2402.08206)].
+
 > C Louart, Sicheng Tan, **"Universal concentration for sums under arbitrary dependence"**, Submitted [[paper](https://arxiv.org/abs/2601.03518)].
 <!---  Z Wenrang, C Louart, **"Transformer-based modular modeling scheme for Digital Twin"**, Submitted to ICML2025 [[paper](https://cosmital.github.io/files/10561_Transformer_based_modula_2.pdf)]. --->
 
